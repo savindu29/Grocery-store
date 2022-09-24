@@ -13,4 +13,4 @@ Details
 Description
 
     This is my first project developed for a user.
-    This was created in relation to cmjd course of ijse institute'
+    This was created in relation to cmjd course of ijse institute
