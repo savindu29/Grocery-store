@@ -1,20 +1,20 @@
 Details
 
 Languages
-Java
-JavaFX
+      Java
+      JavaFX
 
 Design Pattern
-singleton 
+      singleton 
 
 Software used to develop
-Intellij Idea
-Scene Builder
+      Intellij Idea
+      Scene Builder
 
 Architectures
-MVC -I
+      MVC -I
       
 Description
 
-    This is my first project developed for a user.
-    This was created in relation to cmjd course of ijse institute
+      This is my first project developed for a user.
+      This was created in relation to cmjd course of ijse institute
