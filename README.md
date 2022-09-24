@@ -1,14 +1,18 @@
 Details
-  Languages :
-      Java
-      JavaFX
-  Design Pattern :
-      singleton 
-  Software used to develop :
-      Intellij Idea
-      Scene Builder
-  Architectures :
-      MVC -I
+
+Languages
+Java
+JavaFX
+
+Design Pattern
+singleton 
+
+Software used to develop
+Intellij Idea
+Scene Builder
+
+Architectures
+MVC -I
       
 Description
 
