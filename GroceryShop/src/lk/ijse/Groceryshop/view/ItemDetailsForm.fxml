@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane fx:id="orderDetailsContext" prefHeight="420.0" prefWidth="720.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.ijse.Groceryshop.controller.ItemDetailsFormController">
+   <children>
+      <TableView fx:id="tblDetails" layoutX="37.0" layoutY="105.0" prefHeight="283.0" prefWidth="646.0">
+        <columns>
+          <TableColumn fx:id="colCustomerId" prefWidth="154.39996337890625" text="Customer Id" />
+            <TableColumn fx:id="colQty" prefWidth="128.00006103515625" text="Qty" />
+            <TableColumn fx:id="colUnitPrice" prefWidth="178.39996337890625" text="Unit Price" />
+            <TableColumn fx:id="colTotal" prefWidth="163.2000732421875" text="Total" />
+        </columns>
+      </TableView>
+      <Label fx:id="lblHeading" layoutX="164.0" layoutY="14.0" prefHeight="58.0" prefWidth="392.0" text="Order Details" textFill="#020b6b">
+         <font>
+            <Font name="System Bold" size="36.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="dashboardContext" prefHeight="517.0" prefWidth="897.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ik.ljse.Groceryshop.controller.DashboardForm">
+   <children>
+      <Label layoutX="309.0" layoutY="30.0" text="Grocery Shop">
+         <font>
+            <Font name="System Bold" size="47.0" />
+         </font>
+      </Label>
+      <Button layoutX="65.0" layoutY="167.0" mnemonicParsing="false" onAction="#openCustomerFormOnAction" prefHeight="119.0" prefWidth="362.0" style="-fx-background-color: #1abc9c;" text="Customer Management " textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="23.0" />
+         </font>
+         <graphic>
+            <ImageView fitHeight="60.0" fitWidth="58.0">
+               <image>
+                  <Image url="@../assets/customer.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+      <Button layoutX="474.0" layoutY="167.0" mnemonicParsing="false" onAction="#openItemFormOnAction" prefHeight="119.0" prefWidth="362.0" style="-fx-background-color: #3498db;" text="     Item Management " textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="23.0" />
+         </font>
+         <graphic>
+            <ImageView fitHeight="51.0" fitWidth="50.0">
+               <image>
+                  <Image url="@../assets/items.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+      <Button layoutX="65.0" layoutY="336.0" mnemonicParsing="false" onAction="#openOrderDetailsformOnAction" prefHeight="119.0" prefWidth="362.0" style="-fx-background-color: #2c3e50;" text="      Order Details" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="23.0" />
+         </font>
+         <graphic>
+            <ImageView fitHeight="47.0" fitWidth="48.0">
+               <image>
+                  <Image url="@../assets/details.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+      <Button layoutX="474.0" layoutY="336.0" mnemonicParsing="false" onAction="#openPlaceOrderFormOnAction" prefHeight="119.0" prefWidth="362.0" style="-fx-background-color: #d35400;" text="        Place Order" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="23.0" />
+         </font>
+         <graphic>
+            <ImageView fitHeight="53.0" fitWidth="53.0">
+               <image>
+                  <Image url="@../assets/orders.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+      <Label layoutX="800.0" layoutY="488.0" text="version 1.0.0">
+         <font>
+            <Font name="System Bold Italic" size="12.0" />
+         </font>
+      </Label>
+      <Label fx:id="lblTime" alignment="CENTER_RIGHT" layoutX="655.0" layoutY="30.0" prefHeight="27.0" prefWidth="217.0" text="10:10:10">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

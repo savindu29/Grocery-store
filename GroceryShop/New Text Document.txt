@@ -1,0 +1,4 @@
+Languages 	: Java,mySql,JavaFX
+Softwares	: intellij idea,scene builder
+Design Pattern	: Singleton Design Pattern
+Architecher	: MVC-I
