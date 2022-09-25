@@ -1,20 +1,32 @@
-Details
+<h1> Grocery store </h1>
 
-Languages
-      Java
-      JavaFX
+<h2>Description</h2>
 
-Design Pattern
-      singleton 
+<dl>
+<dt> Languages</dt>
 
-Software used to develop
-      Intellij Idea
-      Scene Builder
+<dd> Java </dd>
+<dd>JavaFX </dd>
+      <br/>
 
-Architectures
-      MVC -I
+<dt>  Design Pattern</dt>
       
-Description
+<dd>  singleton </dd>
+      <br/>
+      
+<dt>  Software used to develop</dt>
 
-      This is my first project developed for a user.
-      This was created in relation to cmjd course of ijse institute
+<dd> Intellij Idea </dd>
+ <dd> Scene Builder </dd>
+      <br/>
+
+<dt>  Architectures</dt>
+
+<dd>  MVC -I </dd>
+      <br/>
+
+<dt>  Others</dt>
+
+<dd>  This is my first project developed for a user. </dd>
+<dd> This was created in relation to cmjd course of ijse institute </dd>
+</dl>
