@@ -27,6 +27,5 @@
 
 <dt>  Others</dt>
 
-<dd>  This is my first project developed for a user. </dd>
 <dd> This was created in relation to cmjd course of ijse institute </dd>
 </dl>
