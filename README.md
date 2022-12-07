@@ -32,6 +32,24 @@
 <dd> This was created in relation to cmjd course of ijse institute </dd>
 </dl>
       
+      <table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
+      
 ![Screenshot (314)](https://user-images.githubusercontent.com/86566770/206307075-6c80df22-308f-4462-9c58-14581dbd65ad.png)
       
 ![Screenshot (315)](https://user-images.githubusercontent.com/86566770/206307084-073c9a6c-71a9-44c3-ab3d-75d076f84e61.png)
