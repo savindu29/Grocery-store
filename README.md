@@ -35,8 +35,8 @@
 <table style="width:100%">
 
   <tr>
-    <td>![Screenshot (312)](https://user-images.githubusercontent.com/86566770/206307092-c736bd85-61dd-41e2-9eec-49b41309ecc1.png)</td>
-    <td>![Screenshot (316)](https://user-images.githubusercontent.com/86566770/206307087-a4d31bc0-5c09-4998-b422-b984ad07e764.png)</td>
+    <td><img src ="![Screenshot (312)](https://user-images.githubusercontent.com/86566770/206307092-c736bd85-61dd-41e2-9eec-49b41309ecc1.png)"> </td>
+    <td><img src="![Screenshot (316)](https://user-images.githubusercontent.com/86566770/206307087-a4d31bc0-5c09-4998-b422-b984ad07e764.png)"></td>
     
   </tr>
   <tr>
