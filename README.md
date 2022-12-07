@@ -32,7 +32,7 @@
 <dd> This was created in relation to cmjd course of ijse institute </dd>
 </dl>
       
-      <table>
+<table style="width:100%">
   <tr>
     <th>Company</th>
     <th>Contact</th>
