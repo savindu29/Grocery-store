@@ -36,7 +36,7 @@
 <dd> This was created in relation to cmjd course of ijse institute </dd>
 </dl>
 <div class="card" style="width: 18rem;">
-  <img src="https://drive.google.com/drive/folders/1k7MwYtWuKKonQ7GjlsECcmNS3oEQ23pB" class="card-img-top" alt="...">
+  <img src="[https://drive.google.com/drive/folders/1k7MwYtWuKKonQ7GjlsECcmNS3oEQ23pB](https://drive.google.com/file/d/1F62XBaNKh5hYuBrS1Czb4BAZykGZseVc/view?usp=share_link)" class="card-img-top" alt="...">
   <div class="card-body">
     <p class="card-text"Menu</p>
   </div>
